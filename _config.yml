@@ -34,7 +34,7 @@ typewrite-text: Signal processing engineer and biomedical data analyst
 
 author_work_experiences:
             - company_name: Qualcomm
-              company_logo: qualcomm_logo.png
+              company_logo: qualcomm_logo.jpeg
               company_url: https://qualcomm.com/
               designation: Software Engineer
               description: Worked on signal processing algorithm design and implementation in DSL modems.
